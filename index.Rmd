@@ -9,7 +9,7 @@ bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: rainer-rq-koelle/book_AirNavigation
-url: 'https://rainer-rq-koelle.github.io/book_AirNavigation/'
+#url: "https://rainer-rq-koelle.github.io/book_AirNavigation/"
 description: "Lecture notes on Air Navigation and Air Traffic Management."
 ---
 
