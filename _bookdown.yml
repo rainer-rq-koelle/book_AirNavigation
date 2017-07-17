@@ -1,0 +1,10 @@
+book_filename: "AirNavigation_Book"
+chapter_name: "Chapter "
+#repo: https://github.com/rainer-rq-koelle/book_AirNavigation
+output_dir: docs
+# rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Diving-In.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+# new_session: yes   # each chapter will run in separate session
+edit:    # provide link for contribution
+  link: https://github.com/rainer-rq-koelle/book_AirNavigation/edit/master/%s
+  text: "Contribute"

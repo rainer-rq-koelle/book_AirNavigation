@@ -1,0 +1,18 @@
+--- 
+title: "Air Navigation - Air Traffic Management in the 21st century"
+author: "Rainer Koelle"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+#cover-image:  # add path to cover image, png works for sure!
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rainer-rq-koelle/book_AirNavigation
+url: 'https://github.com/rainer-rq-koelle/book_AirNavigation'
+description: "Lecture notes on Air Navigation and Air Traffic Management."
+---
+
+# Preface {-}
+
+This is the very first part of the book.
