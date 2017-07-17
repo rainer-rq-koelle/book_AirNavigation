@@ -1,0 +1,2 @@
+# book_AirNavigation
+Lecture notes on Air Navigation (or Air Traffic Management) by Rainer Koelle. This book project aims at developing a general understanding about Air Navigation or Air Traffic Management. The book is inspired by the observations that today's generation of MBAs and engineers with a specialisation in aviation and/or air transport seem to have little knowledge about Air Navigation/Air Traffic Management.
