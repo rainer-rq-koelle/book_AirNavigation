@@ -15,4 +15,13 @@ description: "Lecture notes on Air Navigation and Air Traffic Management."
 
 # Preface {-}
 
-This is the very first part of the book.
+This book captures a series of lecture notes that I put together over the years.
+These notes are targeted at individuals - novices or professionals - that have an interest in learning about Air Navigation and Air Traffic Management.
+
+These notes are put together as a lessons learnt from different projects.
+This also means there is no ultimate timeline for finishing this book.
+Please provide feedback on missing parts or obvious mistakes. I will try to update the notes accordingly.
+
+For any suggestion or comment contact: rainer.koelle@eurocontrol.int.
+
+Enjoy the read!
